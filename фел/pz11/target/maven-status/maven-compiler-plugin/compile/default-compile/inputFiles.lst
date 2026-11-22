@@ -1,0 +1,12 @@
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/VinylstoreApplication.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/config/VinylRecordSeeder.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/domain/VinylRecord.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/exception/VinylRecordNotFoundException.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/repository/InMemoryVinylRecordRepository.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/repository/VinylRecordRepository.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/service/VinylRecordService.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/service/VinylRecordServiceImpl.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/service/mapper/VinylRecordMapper.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/web/VinylRecordController.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/web/dto/VinylCardDto.java
+/Users/a111/Desktop/ВІТІ/4 курс/фел/src/main/java/com/ua/vinylstore/web/dto/VinylDetailDto.java

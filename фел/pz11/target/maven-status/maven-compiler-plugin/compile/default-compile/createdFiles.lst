@@ -1,0 +1,12 @@
+com/ua/vinylstore/web/VinylRecordController.class
+com/ua/vinylstore/repository/VinylRecordRepository.class
+com/ua/vinylstore/exception/VinylRecordNotFoundException.class
+com/ua/vinylstore/config/VinylRecordSeeder.class
+com/ua/vinylstore/VinylstoreApplication.class
+com/ua/vinylstore/repository/InMemoryVinylRecordRepository.class
+com/ua/vinylstore/service/mapper/VinylRecordMapper.class
+com/ua/vinylstore/service/VinylRecordServiceImpl.class
+com/ua/vinylstore/domain/VinylRecord.class
+com/ua/vinylstore/service/VinylRecordService.class
+com/ua/vinylstore/web/dto/VinylDetailDto.class
+com/ua/vinylstore/web/dto/VinylCardDto.class
